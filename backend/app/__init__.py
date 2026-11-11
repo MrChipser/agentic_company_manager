@@ -1,0 +1,1 @@
+"""KKV pénzügyi manager backend."""
